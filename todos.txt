@@ -1,13 +1,11 @@
-one
+Uno
 two
-three
+tres
 four
 three
-fifth
-exersize at 10 am
+cinco
+replace
 check
 smth
-
-
-
-
+do pushups
+go walk

@@ -1,7 +1,7 @@
 Uno
 four
-replace
+pushups
 check
 smth
-do pushups
+replace
 go walk

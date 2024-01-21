@@ -1,9 +1,5 @@
 Uno
-two
-tres
 four
-three
-cinco
 replace
 check
 smth
